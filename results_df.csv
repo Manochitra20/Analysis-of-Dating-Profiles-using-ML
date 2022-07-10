@@ -1,0 +1,36 @@
+age,body_type,diet,drinks,drugs,education,ethnicity,height,income,job,orientation,religion,sex,smokes,status,class
+32,curvy,anything,rarely,noanswerdrugs,college/university,white,68.0,73731,noanswerjob,bisexual,religious,f,no,single,0.0
+31,noanswerbodytype,anything,rarely,drugs_no,masters program,asian,70.0,67094,education / academia,gay,religious,m,no,seeing someone,0.0
+30,athletic,anything,rarely,drugs_yes,masters program,white,75.0,105468,science / tech / engineering,straight,atheist,m,no,single,0.0
+28,curvy,noanswerdiet,rarely,noanswerdrugs,college/university,asian,71.0,104393,noanswerjob,gay,religious,m,no,single,0.0
+30,skinny,anything,rarely,drugs_no,noansweredu,white,74.0,131554,computer / hardware / software,gay,religious,m,no,single,0.0
+27,athletic,anything,rarely,noanswerdrugs,college/university,white,70.0,354485,medicine / health,straight,religious,m,no,single,1.0
+35,average,anything,rarely,rarely,masters program,asian,72.0,253283,medicine / health,straight,atheist,m,yes,single,1.0
+24,curvy,noanswerdiet,drinks_no,drugs_no,noansweredu,black,65.0,37896,noanswerjob,straight,religious,f,no,single,1.0
+24,skinny,anything,rarely,drugs_no,college/university,noanswerethnicity,72.0,132701,noanswerjob,straight,religious,m,no,single,1.0
+41,athletic,anything,rarely,drugs_no,college/university,hispanic-latin,71.0,297731,medicine / health,straight,religious,m,no,single,1.0
+47,overweight,vegetarian,rarely,drugs_no,college/university,white,66.0,28895,noanswerjob,straight,religious,f,no,single,2.0
+55,noanswerbodytype,anything,rarely,drugs_no,college/university,white,66.0,35544,education / academia,straight,religious,f,no,single,2.0
+31,skinny,noanswerdiet,rarely,drugs_no,noansweredu,asian,63.0,111836,noanswerjob,straight,religious,f,no,single,2.0
+36,fit,noanswerdiet,rarely,drugs_yes,college/university,noanswerethnicity,69.0,115424,noanswerjob,straight,religious,m,no,married,2.0
+42,fit,noanswerdiet,rarely,drugs_no,college/university,white,67.0,30085,sales / marketing / biz dev,straight,religious,f,no,single,2.0
+27,fit,anything,rarely,drugs_no,noansweredu,white,68.0,25966,student,straight,religious,m,no,seeing someone,3.0
+58,average,anything,rarely,drugs_no,college/university,white,69.0,45135,construction / craftsmanship,straight,religious,m,no,single,3.0
+22,average,anything,rarely,noanswerdrugs,noansweredu,noanswerethnicity,65.0,28869,student,straight,religious,m,no,single,3.0
+23,noanswerbodytype,vegetarian,rarely,drugs_no,noansweredu,white,70.0,38405,transportation,bisexual,religious,f,no,single,3.0
+33,average,anything,rarely,noanswerdrugs,noansweredu,asian,71.0,79308,law / legal services,gay,atheist,m,noanswersmokes,single,3.0
+33,average,vegetarian,rarely,noanswerdrugs,college/university,noanswerethnicity,66.0,74617,noanswerjob,straight,religious,f,no,single,4.0
+23,skinny,anything,rarely,drugs_yes,noansweredu,noanswerethnicity,63.0,68404,sales / marketing / biz dev,straight,religious,f,no,single,4.0
+26,athletic,anything,rarely,drugs_no,noansweredu,hispanic-latin,63.0,25447,student,straight,religious,f,no,single,4.0
+19,average,anything,rarely,drugs_no,noansweredu,white,66.0,80979,noanswerjob,gay,religious,f,no,single,4.0
+26,overweight,noanswerdiet,drinks socially,noanswerdrugs,noansweredu,noanswerethnicity,64.0,183822,noanswerjob,straight,agnostic,f,no,single,4.0
+45,average,noanswerdiet,rarely,drugs_no,college/university,white,70.0,169378,noanswerjob,gay,religious,m,no,single,5.0
+41,average,anything,rarely,drugs_no,law school,white,72.0,68661,law / legal services,straight,religious,m,no,single,5.0
+45,fit,noanswerdiet,rarely,drugs_no,masters program,white,68.0,42432,entertainment / media,straight,religious,m,no,single,5.0
+55,athletic,anything,rarely,drugs_no,college/university,white,64.0,90366,transportation,straight,religious,f,no,single,5.0
+30,fit,noanswerdiet,rarely,noanswerdrugs,high school,white,70.0,30811,construction / craftsmanship,straight,atheist,m,no,single,5.0
+28,fit,anything,rarely,noanswerdrugs,med school,white,67.0,284902,medicine / health,straight,religious,m,no,single,6.0
+35,curvy,anything,rarely,noanswerdrugs,masters program,white,62.0,133520,executive / management,bisexual,religious,f,no,single,6.0
+36,curvy,vegetarian,rarely,drugs_yes,college/university,white,65.0,52991,artistic / musical / writer,straight,religious,f,no,single,6.0
+58,fit,anything,rarely,drugs_no,college/university,white,62.0,92685,noanswerjob,straight,agnostic,f,no,single,6.0
+31,curvy,anything,rarely,drugs_no,college/university,white,66.0,141684,entertainment / media,straight,religious,f,no,single,6.0
