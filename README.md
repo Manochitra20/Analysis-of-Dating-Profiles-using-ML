@@ -1,5 +1,15 @@
 # Analysis of Dating profiles: A Machine Learning Approach
 
+Project Introduction and Scope:
+
+OkCupid is a dating application that allows users to make a profile by answering a series of questions (gender, ethnicity, smoking habits, etc.). 
+Then, the user can swipe on other profiles, and view the percent match, which is a metric automatically calculated based on the contents of both profiles.
+
+Amid a global pandemic, it can be difficult to engage in traditional dating while still staying safe, and adhering to public health guidelines. Dating applications, such as the popular OkCupid, become a go-to solution, allowing users to meet remotely, and even plan a date over Zoom without coming into contact with another individual. However, understanding the virtual dating landscape ahead of time can help get the best results from the application. 
+
+The dataset, which includes features about a user’s profile, can help us understand the types of users that are on the platform. By creating distinct clusters of users, we can help someone make better decisions while swiping, leading to better results for match seekers. Gaining these additional insights is particularly useful given the fact that users only have a limited number of swipes they can make per day, and of course, our time is valuable.
+
+
 Clustering and creating a recommendation algorithm:
 
 The scope for this part of the project was to cluster the user’s profiles into groups and to try to find a match more easily with the help of machine learning algorithms. We tried using different modelling/training methods for the data we had. The first step was to clean and preprocess the available data in a way it can be understood by the algorithms.
